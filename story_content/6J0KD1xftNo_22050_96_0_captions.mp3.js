@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,000%20--%3E%2000:00:04,031%0D%0AWelcome%20to%20the%20Generational%0D%0ADiversity%20Workshop%20Presentation!%0D%0A%0D%0A2%0D%0A00:00:04,056%20--%3E%2000:00:07,490%0D%0AClick%20the%20%E2%80%98next%E2%80%99%20button%20on%20the%0D%0Abottom%20of%20the%20screen%20to%20begin.%0D%0A%0D%0A"}')
